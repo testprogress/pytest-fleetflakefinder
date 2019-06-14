@@ -8,6 +8,7 @@ black = "*"
 pydocstyle = "*"
 neovim = "*"
 flake8 = "*"
+flit = "*"
 
 [packages]
 pytest = "*"
