@@ -1,5 +1,7 @@
 # pytest-fleetflakefinder
 
+[![Build Status](https://travis-ci.com/testprogress/pytest-fleetflakefinder.svg?branch=master)](https://travis-ci.com/testprogress/pytest-fleetflakefinder) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-orange.svg)](https://www.python.org/)
+
 ## Key Features
 
 pytest-fleetflakefinder is a Pytest plugin that efficiently detects flaky tests
