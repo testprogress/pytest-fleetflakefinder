@@ -6,10 +6,11 @@ verify_ssl = true
 [dev-packages]
 black = "*"
 pydocstyle = "*"
+neovim = "*"
+flake8 = "*"
 
 [packages]
-flake8 = "*"
-neovim = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.7"
