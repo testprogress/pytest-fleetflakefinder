@@ -14,7 +14,7 @@ cases using the following approaches:
 ## Contributing
 
 Are you interested in contributing to
-[pytest-fleetflakefinder](https://github.com/testprogress/pytest-fleetflakefinder)
+[pytest-fleetflakefinder](https://github.com/testprogress/pytest-fleetflakefinder)?
 Our development team uses the [GitHub Flow
 Model](https://guides.github.com/introduction/flow/) to guide our engineering of
 these tools and we invite you to also follow it as you make a contribution. Of
