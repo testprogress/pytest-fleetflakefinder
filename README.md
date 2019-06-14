@@ -11,6 +11,8 @@ cases using the following approaches:
 
 * Runs subsets of the test suite in different orders
 
+This plugin is under active development and thus provides limited functionality.
+
 ## Contributing
 
 Are you interested in contributing to
